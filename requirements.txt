@@ -1,3 +1,5 @@
+#PyTorch (torch) is the machine-learning framework that actually runs AI models on your computer.
+torch
 # LangChain Core
 langchain
 langchain-core
@@ -17,6 +19,7 @@ google-generativeai
 langchain-huggingface
 transformers
 huggingface-hub
+sentence_transformers
 
 # Environment Variable Management
 python-dotenv
@@ -24,3 +27,4 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+streamlit

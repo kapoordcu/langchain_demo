@@ -23,6 +23,7 @@ sentence_transformers
 
 # Environment Variable Management
 python-dotenv
+pydantic
 
 # Machine Learning Utilities
 numpy

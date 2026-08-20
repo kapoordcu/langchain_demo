@@ -29,3 +29,5 @@ pydantic
 numpy
 scikit-learn
 streamlit
+
+requests
